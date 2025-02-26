@@ -1,0 +1,7 @@
+.word-wrap {
+  flex: 1;
+  word-wrap: break-word;
+
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
