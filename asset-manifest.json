@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AhmedEliewa/to-do_react.git/static/css/main.7d1d5e69.css",
+    "main.js": "/AhmedEliewa/to-do_react.git/static/js/main.fb07f84e.js",
+    "static/js/453.d66f1c2b.chunk.js": "/AhmedEliewa/to-do_react.git/static/js/453.d66f1c2b.chunk.js",
+    "index.html": "/AhmedEliewa/to-do_react.git/index.html",
+    "main.7d1d5e69.css.map": "/AhmedEliewa/to-do_react.git/static/css/main.7d1d5e69.css.map",
+    "main.fb07f84e.js.map": "/AhmedEliewa/to-do_react.git/static/js/main.fb07f84e.js.map",
+    "453.d66f1c2b.chunk.js.map": "/AhmedEliewa/to-do_react.git/static/js/453.d66f1c2b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d1d5e69.css",
+    "static/js/main.fb07f84e.js"
+  ]
+}
